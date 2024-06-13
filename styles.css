@@ -86,3 +86,7 @@ p {
         color: hsl(0, 0%, 8%);
     }
 }
+
+.socials p {
+    font-size: 10px;
+}
